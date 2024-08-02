@@ -1,4 +1,27 @@
-## Hi there 👋
+👋 Привет, я Алишер!
+
+📱 iOS разработчик из Москвы
+💭 Сейчас изучаю UIkit и SwiftUI
+🚀 Мои навыки
+
+Языки программирования
+
+Swift
+Фреймворки и библиотеки
+
+UIKit
+Foundation
+Core Data
+Инструменты и технологии
+
+Xcode
+Git
+CocoaPods
+Swift Package Manager
+RESTful API
+Multithreading (GCD)
+MVC, MVP, MVVM архитектуры
+Принципы ООП и SOLID
 
 <!--
 **FaNtast2912/FaNtast2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
