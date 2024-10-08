@@ -1,7 +1,7 @@
 # 👋 Привет, я Максим!
 
 - 📱 iOS разработчик
-- 💭 Сейчас изучаю UIkit и SwiftUI
+- 💭 Сейчас изучаю UIkit и SwiftUI, осваиваю CocoaPods
 ## 🚀 Мои навыки
 
 ### Языки программирования
@@ -16,7 +16,6 @@
 
 - Xcode
 - Git
-- CocoaPods
 - Swift Package Manager
 - RESTful API
 - Multithreading (GCD)
