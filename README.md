@@ -1,26 +1,26 @@
-# 👋 Привет, я Максим!
+# 👋 Hi, I'm Maxim!
 
-- 📱 iOS разработчик
-- 💭 Сейчас изучаю UIkit и SwiftUI, осваиваю CocoaPods
-## 🚀 Мои навыки
+- 📱 iOS developer
+- 💭 I am currently learning UIkit and SwiftUI, mastering CocoaPods
+## 🚀 My skills
 
-### Языки программирования
+### Programming languages
 
 - Swift
-### Фреймворки и библиотеки
+### Frameworks & Libraries
 
 - UIKit
 - Foundation
 - Core Data
-### Инструменты и технологии
+### Tools and technologies
 
 - Xcode
 - Git
 - Swift Package Manager
 - RESTful API
 - Multithreading (GCD)
-- MVC, MVP, MVVM архитектуры
-- Принципы ООП и SOLID
+- MVC, MVP, MVVM architectures
+- Principles of OOP and SOLID
 
 ![FaNtast's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaNtast2912&show_icons=true&theme=tokyonight)
 
