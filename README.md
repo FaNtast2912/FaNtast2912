@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maxim!
 
 - 📱 iOS developer
-- 💭 I am currently learning UIkit and SwiftUI, mastering CocoaPods
+- 💭 I am currently learning SwiftUI, mastering CocoaPods
 ## 🚀 My skills
 
 ### Programming languages
