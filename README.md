@@ -87,7 +87,7 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.
 
-<img src="https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDoctorDemo.gif" alt="YourDoctor Demo" width="200">  
+<img src="https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif" alt="YourDoctor Demo" width="200">  
 *Demonstrates doctor profile viewing and appointment scheduling.*  
 
 [GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
