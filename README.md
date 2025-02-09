@@ -28,10 +28,13 @@
 
 Here are some of the projects I've worked on, showcasing my skills and achievements in software development.
 
-
 ### ImageFeed
-
 **Description:** A multi-page application for viewing images with OAuth 2.0 authentication support.
+
+**Key Features:**
+- Secure user authentication via OAuth 2.0.
+- Efficient image loading and caching.
+- Multi-screen navigation with smooth transitions.
 
 **Achievements:**
 - Implemented OAuth 2.0 authentication, ensuring secure user access.
@@ -40,14 +43,19 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, RESTful API, GCD, OAuth 2.0, UITableView, ScrollView, WKWebView, Unit Tests, UI Tests.
 
-![ImageFeed Demo](https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif)  
+![ImageFeed Demo](https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif =400x)  
+*Demonstrates image browsing and OAuth 2.0 login flow.*  
 [GitHub Repository](https://github.com/FaNtast2912/ImageFeed)
 
 ---
 
 ### Tracker
-
 **Description:** An app for creating and tracking healthy habits.
+
+**Key Features:**
+- Habit creation and tracking with reminders.
+- Data storage using CoreData for persistence.
+- Integration with AppMetrica for analytics.
 
 **Achievements:**
 - Developed functionality using CoreData for reliable data storage.
@@ -56,14 +64,19 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests.
 
-![Tracker Demo](https://raw.githubusercontent.com/FaNtast2912/Tracker/main/Demo/TrackerDemo.gif)  
+![Tracker Demo](https://raw.githubusercontent.com/FaNtast2912/Tracker/main/Demo/TrackerDemo.gif =400x)  
+*Demonstrates habit creation, tracking, and localization.*  
 [GitHub Repository](https://github.com/FaNtast2912/Tracker)
 
 ---
 
 ### YourDoctor (Test Project)
-
 **Description:** A SwiftUI-based application using MVVM and Combine for state management and asynchronous operations.
+
+**Key Features:**
+- Adaptive interface for various screen sizes.
+- Doctor profile viewing and appointment scheduling.
+- Clean architecture following SOLID principles.
 
 **Achievements:**
 - Developed an adaptive interface with features for viewing doctor profiles and scheduling appointments.
@@ -72,14 +85,19 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.
 
-![YourDoctor Demo](https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif)  
+![YourDoctor Demo](https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif =400x)  
+*Demonstrates doctor profile viewing and appointment scheduling.*  
 [GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
 
 ---
 
 ### MovieQuiz
-
 **Description:** A quiz application featuring quizzes about IMDb's Top 250 movies.
+
+**Key Features:**
+- Quiz game with questions about popular movies.
+- Integration with RESTful API for fetching movie data.
+- Comprehensive testing coverage.
 
 **Achievements:**
 - Successfully integrated with a RESTful API for loading movie data.
@@ -88,5 +106,6 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.
 
-![MovieQuiz Demo](https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif)  
+![MovieQuiz Demo](https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif =400x)  
+*Demonstrates quiz gameplay and question flow.*  
 [GitHub Repository](https://github.com/FaNtast2912/MovieQuiz)
