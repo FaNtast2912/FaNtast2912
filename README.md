@@ -39,7 +39,7 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.
 
-![MovieQuiz Demo](https://github.com/FaNtast2912/MovieQuiz/tree/main/Demo/MovieQuizDemo.gif)  
+![MovieQuiz Demo](https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif)  
 [GitHub Repository](https://github.com/FaNtast2912/MovieQuiz)
 
 ---
@@ -55,37 +55,5 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, RESTful API, GCD, OAuth 2.0, UITableView, ScrollView, WKWebView, Unit Tests, UI Tests.
 
-![ImageFeed Demo](https://github.com/FaNtast2912/ImageFeed/tree/main/Demo/ImageFeedDemo.gif)  
+![ImageFeed Demo](https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif)  
 [GitHub Repository](https://github.com/FaNtast2912/ImageFeed)
-
----
-
-### Tracker
-
-**Description:** An app for creating and tracking healthy habits.
-
-**Achievements:**
-- Developed functionality using CoreData for reliable data storage.
-- Integrated analytics via AppMetrica to collect user experience data for improvement.
-- Localized the app to make it accessible to an international audience.
-
-**Technologies:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests.
-
-![Tracker Demo](https://github.com/FaNtast2912/Tracker/tree/main/Demo/TrackerDemo.gif)  
-[GitHub Repository](https://github.com/FaNtast2912/Tracker)
-
----
-
-### YourDoctor (Test Project)
-
-**Description:** A SwiftUI-based application using MVVM and Combine for state management and asynchronous operations.
-
-**Achievements:**
-- Developed an adaptive interface with features for viewing doctor profiles and scheduling appointments.
-- Ensured clean code following SOLID principles and tested the app across various scenarios.
-- Completed the project within a tight deadline, meeting all objectives.
-
-**Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.
-
-![YourDoctor Demo](https://github.com/FaNtast2912/YourDoctor/tree/main/Demo/YourDocktorDemo.gif)  
-[GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
