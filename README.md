@@ -87,5 +87,5 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.
 
-![YourDoctor Demo](https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDoctorDemo.gif)  
+![YourDoctor Demo](https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif)  
 [GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
