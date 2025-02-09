@@ -28,21 +28,6 @@
 
 Here are some of the projects I've worked on, showcasing my skills and achievements in software development.
 
-### MovieQuiz
-
-**Description:** A quiz application featuring quizzes about IMDb's Top 250 movies.
-
-**Achievements:**
-- Successfully integrated with a RESTful API for loading movie data.
-- Refactored the architecture from MVC to MVP, improving code maintainability and simplifying testing.
-- Developed Unit and UI tests, increasing test coverage to 85%.
-
-**Technologies:** UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.
-
-![MovieQuiz Demo](https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif)  
-[GitHub Repository](https://github.com/FaNtast2912/MovieQuiz)
-
----
 
 ### ImageFeed
 
@@ -89,3 +74,19 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 ![YourDoctor Demo](https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif)  
 [GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
+
+---
+
+### MovieQuiz
+
+**Description:** A quiz application featuring quizzes about IMDb's Top 250 movies.
+
+**Achievements:**
+- Successfully integrated with a RESTful API for loading movie data.
+- Refactored the architecture from MVC to MVP, improving code maintainability and simplifying testing.
+- Developed Unit and UI tests, increasing test coverage to 85%.
+
+**Technologies:** UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.
+
+![MovieQuiz Demo](https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif)  
+[GitHub Repository](https://github.com/FaNtast2912/MovieQuiz)
