@@ -57,3 +57,35 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 ![ImageFeed Demo](https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif)  
 [GitHub Repository](https://github.com/FaNtast2912/ImageFeed)
+
+---
+
+### Tracker
+
+**Description:** An app for creating and tracking healthy habits.
+
+**Achievements:**
+- Developed functionality using CoreData for reliable data storage.
+- Integrated analytics via AppMetrica to collect user experience data for improvement.
+- Localized the app to make it accessible to an international audience.
+
+**Technologies:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests.
+
+![Tracker Demo](https://raw.githubusercontent.com/FaNtast2912/Tracker/main/Demo/TrackerDemo.gif)  
+[GitHub Repository](https://github.com/FaNtast2912/Tracker)
+
+---
+
+### YourDoctor (Test Project)
+
+**Description:** A SwiftUI-based application using MVVM and Combine for state management and asynchronous operations.
+
+**Achievements:**
+- Developed an adaptive interface with features for viewing doctor profiles and scheduling appointments.
+- Ensured clean code following SOLID principles and tested the app across various scenarios.
+- Completed the project within a tight deadline, meeting all objectives.
+
+**Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.
+
+![YourDoctor Demo](https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDoctorDemo.gif)  
+[GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
