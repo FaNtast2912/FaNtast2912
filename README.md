@@ -43,8 +43,9 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, RESTful API, GCD, OAuth 2.0, UITableView, ScrollView, WKWebView, Unit Tests, UI Tests.
 
-<img src="https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif" alt="ImageFeed Demo" width="400">  
+<img src="https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif" alt="ImageFeed Demo" width="200">  
 *Demonstrates image browsing and OAuth 2.0 login flow.*  
+
 [GitHub Repository](https://github.com/FaNtast2912/ImageFeed)
 
 ---
@@ -64,8 +65,9 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests.
 
-<img src="https://raw.githubusercontent.com/FaNtast2912/Tracker/main/Demo/TrackerDemo.gif" alt="Tracker Demo" width="400">  
+<img src="https://raw.githubusercontent.com/FaNtast2912/Tracker/main/Demo/TrackerDemo.gif" alt="Tracker Demo" width="200">  
 *Demonstrates habit creation, tracking, and localization.*  
+
 [GitHub Repository](https://github.com/FaNtast2912/Tracker)
 
 ---
@@ -85,8 +87,9 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.
 
-<img src="https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDoctorDemo.gif" alt="YourDoctor Demo" width="400">  
+<img src="https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDoctorDemo.gif" alt="YourDoctor Demo" width="200">  
 *Demonstrates doctor profile viewing and appointment scheduling.*  
+
 [GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
 
 ---
@@ -106,6 +109,7 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.
 
-<img src="https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif" alt="MovieQuiz Demo" width="400">  
+<img src="https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif" alt="MovieQuiz Demo" width="200">  
 *Demonstrates quiz gameplay and question flow.*  
+
 [GitHub Repository](https://github.com/FaNtast2912/MovieQuiz)
