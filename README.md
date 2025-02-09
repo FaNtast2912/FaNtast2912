@@ -24,17 +24,64 @@
 
 ![FaNtast's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaNtast2912&show_icons=true&theme=tokyonight)
 
-<!--
-**FaNtast2912/FaNtast2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Example Projects
 
-Here are some ideas to get you started:
+Here are some of the projects I've worked on, showcasing my skills and achievements in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MovieQuiz
+
+**Description:** A quiz application featuring quizzes about IMDb's Top 250 movies.
+
+**Achievements:**
+- Successfully integrated with a RESTful API for loading movie data.
+- Refactored the architecture from MVC to MVP, improving code maintainability and simplifying testing.
+- Developed Unit and UI tests, increasing test coverage to 85%.
+
+**Technologies:** UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.
+
+[GitHub Repository](https://github.com/FaNtast2912/MovieQuiz)
+
+---
+
+### ImageFeed
+
+**Description:** A multi-page application for viewing images with OAuth 2.0 authentication support.
+
+**Achievements:**
+- Implemented OAuth 2.0 authentication, ensuring secure user access.
+- Optimized image loading and display, reducing load time by 30%.
+- Refactored the architecture from MVC to MVP, enhancing code readability and testability.
+
+**Technologies:** UIKit, RESTful API, GCD, OAuth 2.0, UITableView, ScrollView, WKWebView, Unit Tests, UI Tests.
+
+[GitHub Repository](https://github.com/FaNtast2912/ImageFeed)
+
+---
+
+### Tracker
+
+**Description:** An app for creating and tracking healthy habits.
+
+**Achievements:**
+- Developed functionality using CoreData for reliable data storage.
+- Integrated analytics via AppMetrica to collect user experience data for improvement.
+- Localized the app to make it accessible to an international audience.
+
+**Technologies:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests.
+
+[GitHub Repository](https://github.com/FaNtast2912/Tracker)
+
+---
+
+### YourDoctor (Test Project)
+
+**Description:** A SwiftUI-based application using MVVM and Combine for state management and asynchronous operations.
+
+**Achievements:**
+- Developed an adaptive interface with features for viewing doctor profiles and scheduling appointments.
+- Ensured clean code following SOLID principles and tested the app across various scenarios.
+- Completed the project within a tight deadline, meeting all objectives.
+
+**Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.
+
+[GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
