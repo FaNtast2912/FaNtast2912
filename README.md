@@ -35,97 +35,29 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 ### ImageFeed  
 **Description:** A multi-page application for viewing images with OAuth 2.0 authentication support.  
 
-**Key Features:**
-- Secure user authentication via OAuth 2.0.
-- Efficient image loading and caching.
-- Multi-screen navigation with smooth transitions.
-
-**Achievements:**
-- Implemented OAuth 2.0 authentication, ensuring secure user access.
-- Optimized image loading and display, reducing load time by 30%.
-- Refactored the architecture from MVC to MVP, enhancing code readability and testability.
-
-**Technologies:** UIKit, RESTful API, GCD, OAuth 2.0, UITableView, ScrollView, WKWebView, Unit Tests, UI Tests.
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif" alt="ImageFeed Demo" width="250" />
-  <div style="margin-left: 20px;">
-    *Demonstrates image browsing and OAuth 2.0 login flow.*  
-    [GitHub Repository](https://github.com/FaNtast2912/ImageFeed)
-  </div>
-</div>
+| <img src="https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif" alt="ImageFeed Demo" width="250" /> | **Key Features:**<br>- Secure user authentication via OAuth 2.0.<br>- Efficient image loading and caching.<br>- Multi-screen navigation with smooth transitions.<br><br>**Achievements:**<br>- Implemented OAuth 2.0 authentication, ensuring secure user access.<br>- Optimized image loading and display, reducing load time by 30%.<br>- Refactored the architecture from MVC to MVP, enhancing code readability and testability.<br><br>**Technologies:** UIKit, RESTful API, GCD, OAuth 2.0, UITableView, ScrollView, WKWebView, Unit Tests, UI Tests.<br><br>*Demonstrates image browsing and OAuth 2.0 login flow.*<br>[GitHub Repository](https://github.com/FaNtast2912/ImageFeed) |
+|:---:|:---|
 
 ---
 
 ### Tracker  
 **Description:** An app for creating and tracking healthy habits.  
 
-**Key Features:**
-- Habit creation and tracking with reminders.
-- Data storage using CoreData for persistence.
-- Integration with AppMetrica for analytics.
-
-**Achievements:**
-- Developed functionality using CoreData for reliable data storage.
-- Integrated analytics via AppMetrica to collect user experience data for improvement.
-- Localized the app to make it accessible to an international audience.
-
-**Technologies:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests.
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/FaNtast2912/Tracker/main/Demo/TrackerDemo.gif" alt="Tracker Demo" width="250" />
-  <div style="margin-left: 20px;">
-    *Demonstrates habit creation, tracking, and localization.*  
-    [GitHub Repository](https://github.com/FaNtast2912/Tracker)
-  </div>
-</div>
+| <img src="https://raw.githubusercontent.com/FaNtast2912/Tracker/main/Demo/TrackerDemo.gif" alt="Tracker Demo" width="250" /> | **Key Features:**<br>- Habit creation and tracking with reminders.<br>- Data storage using CoreData for persistence.<br>- Integration with AppMetrica for analytics.<br><br>**Achievements:**<br>- Developed functionality using CoreData for reliable data storage.<br>- Integrated analytics via AppMetrica to collect user experience data for improvement.<br>- Localized the app to make it accessible to an international audience.<br><br>**Technologies:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests.<br><br>*Demonstrates habit creation, tracking, and localization.*<br>[GitHub Repository](https://github.com/FaNtast2912/Tracker) |
+|:---:|:---|
 
 ---
 
 ### YourDoctor (Test Project)  
 **Description:** A SwiftUI-based application using MVVM and Combine for state management and asynchronous operations.  
 
-**Key Features:**
-- Adaptive interface for various screen sizes.
-- Doctor profile viewing and appointment scheduling.
-- Clean architecture following SOLID principles.
-
-**Achievements:**
-- Developed an adaptive interface with features for viewing doctor profiles and scheduling appointments.
-- Ensured clean code following SOLID principles and tested the app across various scenarios.
-- Completed the project within a tight deadline, meeting all objectives.
-
-**Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif" alt="YourDoctor Demo" width="250" />
-  <div style="margin-left: 20px;">
-    *Demonstrates doctor profile viewing and appointment scheduling.*  
-    [GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
-  </div>
-</div>
+| <img src="https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif" alt="YourDoctor Demo" width="250" /> | **Key Features:**<br>- Adaptive interface for various screen sizes.<br>- Doctor profile viewing and appointment scheduling.<br>- Clean architecture following SOLID principles.<br><br>**Achievements:**<br>- Developed an adaptive interface with features for viewing doctor profiles and scheduling appointments.<br>- Ensured clean code following SOLID principles and tested the app across various scenarios.<br>- Completed the project within a tight deadline, meeting all objectives.<br><br>**Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.<br><br>*Demonstrates doctor profile viewing and appointment scheduling.*<br>[GitHub Repository](https://github.com/FaNtast2912/YourDoctor) |
+|:---:|:---|
 
 ---
 
 ### MovieQuiz  
 **Description:** A quiz application featuring quizzes about IMDb's Top 250 movies.  
 
-**Key Features:**
-- Quiz game with questions about popular movies.
-- Integration with RESTful API for fetching movie data.
-- Comprehensive testing coverage.
-
-**Achievements:**
-- Successfully integrated with a RESTful API for loading movie data.
-- Refactored the architecture from MVC to MVP, improving code maintainability and simplifying testing.
-- Developed Unit and UI tests, increasing test coverage to 85%.
-
-**Technologies:** UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif" alt="MovieQuiz Demo" width="250" />
-  <div style="margin-left: 20px;">
-    *Demonstrates quiz gameplay and question flow.*  
-    [GitHub Repository](https://github.com/FaNtast2912/MovieQuiz)
-  </div>
-</div>
+| <img src="https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif" alt="MovieQuiz Demo" width="250" /> | **Key Features:**<br>- Quiz game with questions about popular movies.<br>- Integration with RESTful API for fetching movie data.<br>- Comprehensive testing coverage.<br><br>**Achievements:**<br>- Successfully integrated with a RESTful API for loading movie data.<br>- Refactored the architecture from MVC to MVP, improving code maintainability and simplifying testing.<br>- Developed Unit and UI tests, increasing test coverage to 85%.<br><br>**Technologies:** UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.<br><br>*Demonstrates quiz gameplay and question flow.*<br>[GitHub Repository](https://github.com/FaNtast2912/MovieQuiz) |
+|:---:|:---|
