@@ -1,35 +1,39 @@
 # 👋 Hi, I'm Maxim!
 
-- 📱 iOS developer
-- 💭 I am currently learning SwiftUI, mastering CocoaPods
+- 📱 iOS developer  
+- 💭 I am currently learning SwiftUI, mastering CocoaPods  
+
+---
+
 ## 🚀 My skills
 
 ### Programming languages
+- Swift  
 
-- Swift
 ### Frameworks & Libraries
+- UIKit  
+- Foundation  
+- Core Data  
 
-- UIKit
-- Foundation
-- Core Data
 ### Tools and technologies
-
-- Xcode
-- Git
-- Swift Package Manager
-- RESTful API
-- Multithreading (GCD)
-- MVC, MVP, MVVM architectures
-- Principles of OOP and SOLID
+- Xcode  
+- Git  
+- Swift Package Manager  
+- RESTful API  
+- Multithreading (GCD)  
+- MVC, MVP, MVVM architectures  
+- Principles of OOP and SOLID  
 
 ![FaNtast's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaNtast2912&show_icons=true&theme=tokyonight)
+
+---
 
 ## Example Projects
 
 Here are some of the projects I've worked on, showcasing my skills and achievements in software development.
 
-### ImageFeed
-**Description:** A multi-page application for viewing images with OAuth 2.0 authentication support.
+### ImageFeed  
+**Description:** A multi-page application for viewing images with OAuth 2.0 authentication support.  
 
 **Key Features:**
 - Secure user authentication via OAuth 2.0.
@@ -43,15 +47,18 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, RESTful API, GCD, OAuth 2.0, UITableView, ScrollView, WKWebView, Unit Tests, UI Tests.
 
-<img src="https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif" alt="ImageFeed Demo" width="200">  
-*Demonstrates image browsing and OAuth 2.0 login flow.*  
-
-[GitHub Repository](https://github.com/FaNtast2912/ImageFeed)
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://raw.githubusercontent.com/FaNtast2912/ImageFeed/main/Demo/ImageFeedDemo.gif" alt="ImageFeed Demo" width="250" />
+  <div style="margin-left: 20px;">
+    *Demonstrates image browsing and OAuth 2.0 login flow.*  
+    [GitHub Repository](https://github.com/FaNtast2912/ImageFeed)
+  </div>
+</div>
 
 ---
 
-### Tracker
-**Description:** An app for creating and tracking healthy habits.
+### Tracker  
+**Description:** An app for creating and tracking healthy habits.  
 
 **Key Features:**
 - Habit creation and tracking with reminders.
@@ -65,15 +72,18 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests.
 
-<img src="https://raw.githubusercontent.com/FaNtast2912/Tracker/main/Demo/TrackerDemo.gif" alt="Tracker Demo" width="200">  
-*Demonstrates habit creation, tracking, and localization.*  
-
-[GitHub Repository](https://github.com/FaNtast2912/Tracker)
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://raw.githubusercontent.com/FaNtast2912/Tracker/main/Demo/TrackerDemo.gif" alt="Tracker Demo" width="250" />
+  <div style="margin-left: 20px;">
+    *Demonstrates habit creation, tracking, and localization.*  
+    [GitHub Repository](https://github.com/FaNtast2912/Tracker)
+  </div>
+</div>
 
 ---
 
-### YourDoctor (Test Project)
-**Description:** A SwiftUI-based application using MVVM and Combine for state management and asynchronous operations.
+### YourDoctor (Test Project)  
+**Description:** A SwiftUI-based application using MVVM and Combine for state management and asynchronous operations.  
 
 **Key Features:**
 - Adaptive interface for various screen sizes.
@@ -87,15 +97,18 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** SwiftUI, MVVM, Combine, SOLID Principles.
 
-<img src="https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif" alt="YourDoctor Demo" width="200">  
-*Demonstrates doctor profile viewing and appointment scheduling.*  
-
-[GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif" alt="YourDoctor Demo" width="250" />
+  <div style="margin-left: 20px;">
+    *Demonstrates doctor profile viewing and appointment scheduling.*  
+    [GitHub Repository](https://github.com/FaNtast2912/YourDoctor)
+  </div>
+</div>
 
 ---
 
-### MovieQuiz
-**Description:** A quiz application featuring quizzes about IMDb's Top 250 movies.
+### MovieQuiz  
+**Description:** A quiz application featuring quizzes about IMDb's Top 250 movies.  
 
 **Key Features:**
 - Quiz game with questions about popular movies.
@@ -109,7 +122,10 @@ Here are some of the projects I've worked on, showcasing my skills and achieveme
 
 **Technologies:** UIKit, RESTful API, GCD, UserDefaults, MVP, Unit Tests, UI Tests.
 
-<img src="https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif" alt="MovieQuiz Demo" width="200">  
-*Demonstrates quiz gameplay and question flow.*  
-
-[GitHub Repository](https://github.com/FaNtast2912/MovieQuiz)
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://raw.githubusercontent.com/FaNtast2912/MovieQuiz/main/Demo/MovieQuizDemo.gif" alt="MovieQuiz Demo" width="250" />
+  <div style="margin-left: 20px;">
+    *Demonstrates quiz gameplay and question flow.*  
+    [GitHub Repository](https://github.com/FaNtast2912/MovieQuiz)
+  </div>
+</div>
