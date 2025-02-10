@@ -1,28 +1,23 @@
 # 👋 Hi, I'm Maxim!
 
-- 📱 iOS developer  
-- 💭 I am currently learning SwiftUI, mastering CocoaPods  
+### 🚀 Tech Stack
+Swift, UIKit, SwiftUI, REST API, WebSocket, GCD, Async/Await, OAuth 2.0, MVC/MVP/MVVM, CoreData, Realm, CocoaPods/SPM, Unit/UI/Snapshot Tests, Git/GitHub.
+
+### 💼 Current Work
+🔹 Developing key features for a messaging app:
+- Reply/Forward messages 📩
+- Copy/Delete messages ✂️
+- Large-scale refactoring for better maintainability 🔄
+
+**Tech:** SwiftUI, MVVM, Combine, WebSocket, Async/Await, Realm.
+
+### 🎓 Mentoring Experience
+📢 **Speaker/Mentor at Yandex Practicum**  
+- Guided 50+ students to successfully complete the course.
+- Developed Swift materials, increasing student retention by 15%.
 
 ---
-
-## 🚀 My skills
-
-### Programming languages
-- Swift  
-
-### Frameworks & Libraries
-- UIKit  
-- Foundation  
-- Core Data  
-
-### Tools and technologies
-- Xcode  
-- Git  
-- Swift Package Manager  
-- RESTful API  
-- Multithreading (GCD)  
-- MVC, MVP, MVVM architectures  
-- Principles of OOP and SOLID  
+📬 Let's connect! [Telegram](https://t.me/FaNtast2912) |
 
 ![FaNtast's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaNtast2912&show_icons=true&theme=tokyonight)
 
