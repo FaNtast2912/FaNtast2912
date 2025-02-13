@@ -43,7 +43,7 @@ Swift, UIKit, SwiftUI, REST API, WebSocket, GCD, Async/Await, OAuth 2.0, MVC/MVP
 
 ---
 
-### YourDoctor (Тестовый проект)  
+### YourDoctor
 **Описание:** Приложение на SwiftUI с использованием MVVM и Combine для управления состоянием и асинхронных операций.  
 
 | <img src="https://raw.githubusercontent.com/FaNtast2912/YourDoctor/main/Demo/YourDocktorDemo.gif" alt="YourDoctor Demo" width="200" /> | **Основные функции:**<br>- Адаптивный интерфейс для различных экранов.<br>- Просмотр профилей врачей и запись на прием.<br>- Чистая архитектура с соблюдением принципов SOLID.<br><br>**Достижения:**<br>- Разработан адаптивный интерфейс с возможностью просмотра профилей врачей и записи на прием.<br>- Обеспечено соответствие принципам SOLID, протестировано в различных сценариях.<br>- Завершен проект в сжатые сроки с выполнением всех задач.<br><br>**Технологии:** SwiftUI, MVVM, Combine, SOLID Principles.<br>[GitHub Repository](https://github.com/FaNtast2912/YourDoctor) |
