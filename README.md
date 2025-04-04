@@ -11,11 +11,6 @@ Swift, UIKit, SwiftUI, REST API, WebSocket, GCD, Async/Await, OAuth 2.0, MVC/MVP
 
 **Технологии:** SwiftUI, MVVM, Combine, WebSocket, Async/Await, Realm.
 
-### 🎓 Опыт наставничества
-📢 **Спикер/ментор в Яндекс Практикуме**  
-- Помог 50+ студентам успешно завершить курс.
-- Разработал материалы по Swift, увеличив успеваемость студентов на 15%.
-
 ---
 
 ![FaNtast's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaNtast2912&show_icons=true&theme=tokyonight)
