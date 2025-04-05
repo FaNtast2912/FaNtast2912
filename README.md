@@ -1,4 +1,4 @@
-# 👋 Привет, я Максим!
+# 👋 Привет, я Макс!
 
 ### 🚀 Технический стек
 Swift, UIKit, SwiftUI, REST API, WebSocket, GCD, Async/Await, OAuth 2.0, MVC/MVP/MVVM, CoreData, Realm, CocoaPods/SPM, Unit/UI/Snapshot Tests, Git/GitHub.
